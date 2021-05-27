@@ -31,8 +31,8 @@
 
 | ¹ | Check | Check type |
 | ------ | ------ | ------ |
-|2.1 | Ñorrect account password with hidden password | smoke test | 
-| 2.2 | Ñorrect password with open password | smoke test | 
+|2.1 | Correct account password with hidden password | smoke test | 
+| 2.2 | Correct password with open password | smoke test | 
 | 2.3 | Paste password using copy / paste | critical pass | 
 | 2.4 | Paste password using combinations Ctrl + C Ctrl + V | critical pass | 
 | 2.5 | Do not enter password | critical pass | 
@@ -47,7 +47,7 @@
 
 | ¹ | Check | Check type |
 | ------ | ------ | ------ |
-| 3.1 | Ñorrect email and password | smoke test | 
+| 3.1 | Correct email and password | smoke test | 
 | 3.2 | correct phone number and password | smoke test | 
 | 3.3 | Enter the password first, and then the login | critical pass | 
 | 3.4 | Click on the \"Log In\" button once | smoke test | 
@@ -151,7 +151,7 @@
 | 8.2 | Select \"Male\" | smoke test | 
 | 8.3 | Select \"Custome\" | smoke test | 
 | 8.4 | Select multiple options | critical pass | 
-| 8.5 | Ñhoose nothing | critical pass | 
+| 8.5 | Choose nothing | critical pass | 
 
 
 # Forgot password
@@ -175,7 +175,7 @@
 | ¹ | Check | Check type |
 | ------ | ------ | ------ |
 | 10.1 | Select \"This is my account\" | smoke test | 
-| 10.2 | Ñlick \"Back\" | critical pass | 
+| 10.2 | Click \"Back\" | critical pass | 
 | 10.3 | Push \"Enter\" | critical pass | 
 | 10.4 | Refresh the page | critical pass | 
 
