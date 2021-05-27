@@ -1,2 +1,6 @@
-# My first check list
+# Facebook checklist
+
+ - Log In
+ - Sign Up
+ - Forgot Password
 

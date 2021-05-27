@@ -48,7 +48,7 @@
 | ¹ | Check | Check type |
 | ------ | ------ | ------ |
 | 3.1 | Correct email and password | smoke test | 
-| 3.2 | correct phone number and password | smoke test | 
+| 3.2 | Correct phone number and password | smoke test | 
 | 3.3 | Enter the password first, and then the login | critical pass | 
 | 3.4 | Click on the \"Log In\" button once | smoke test | 
 | 3.5 | Press the \"Enter\" key | smoke test | 
